@@ -1,16 +1,16 @@
 {
-  "Name": "Data from: Comprehensive ultrahigh resolution whole brain in vivo MRI dataset as a human phantom",
-  "BIDSVersion": "1.5.0",
-  "DatasetType": "raw",
-  "License": "CC0",
-  "Authors": [
-    "Falk Lüsebrink",
-	"Hendrik Mattern",
-	"Renat Yakupov",
-	"Julio Acosta-Cabronero",
-	"Mohammad Ashtarayeh",
-	"Steffen Oeltze-Jafra",
-	"Oliver Speck"
-	],
-  "DatasetDOI": "doi:10.24352/UB.OVGU-2020-145"
+    "Name": "Data from: Comprehensive ultrahigh resolution whole brain in vivo MRI dataset as a human phantom",
+    "BIDSVersion": "1.5.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Falk L\u00fcsebrink",
+        "Hendrik Mattern",
+        "Renat Yakupov",
+        "Julio Acosta-Cabronero",
+        "Mohammad Ashtarayeh",
+        "Steffen Oeltze-Jafra",
+        "Oliver Speck"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds003563.v1.0.0"
 }
