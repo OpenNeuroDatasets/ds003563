@@ -27,5 +27,6 @@
         "German Reseach Foundation (\u201c9th Nachwuchsakademie Medizintechnik\u201d, MA 9235/1-1)",
         "Forschungszentrum Medizintechnik Hamburg (fmthh; grant 01fmthh2017)",
         "Federal state of Saxony-Anhalt, Germany, under grant number \u2018I 88\u2019"
-    ]
+    ],
+    "HowToAcknowledge": "L\u00fcsebrink, F., Mattern, H., Yakupov, R. et al. Comprehensive ultrahigh resolution whole brain in vivo MRI dataset as a human phantom. Sci Data 8, 138 (2021).\n\nL\u00fcsebrink, F., Mattern, H., Yakupov, R. et al. Data from: Comprehensive ultrahigh resolution whole brain in vivo MRI dataset as a human phantom. OpenNeuro ds003563 (2021)."
 }
